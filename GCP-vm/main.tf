@@ -12,7 +12,7 @@ terraform {
 # bloco provider{} : define os parametos de um provider. 'providers' são plugins que o TF usa para acessar
 # e gerenciar os recursos de infra
 provider "google" {
-  credentials = file("keys.json")
+  credentials = file("../.provider_keys/gcp-keys.json")
   project     = "projeto-estudos-356715"
   region      = "us-central1"
   zone        = "us-central1-c"
