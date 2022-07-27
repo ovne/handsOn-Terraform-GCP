@@ -1,3 +1,4 @@
+.provider_keys
 .terraform/**
 .terraform*
 terraform*
