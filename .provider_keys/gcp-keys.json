@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "projeto-estudos-356715",
+  "private_key_id": "e76c3fb87d2d8451c2dc5b8f21ddf77169e69399",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDMqha5Mwt1aHCi\nkJYOU9yEMBG/VsZ3Gdvlf2DJeDER1zp7x0y8FcjMc8+poHTuznsAz+y3VGLTCnzo\nzlCTzkdf3i5wzDdoRuC6Isd5lXLUP80RLFVqO33G16nJnzfI7u7HHMNcBjrLYS14\n6ht0G+72utto+pqTKUqqt+xUtcxpdDbIxr33R1ZWBGLXc3XRotg3MEYnfaQioaG+\nlFkoCRzbLz4MOBB4Po2/9AUNlNufJrJaYqRdWjkbfky3wAPWbBLcnA5krQ+kQiNj\nx/I2f7m+6GXXH9gEyaPFMqRWgonlGv1E8y8EBzDQ3SpGC2f5FM+boaowBj31rW+2\nLMIS9vCDAgMBAAECggEABDB5HZpfYixcnd9CyxFJYsVPH7EJh/eWCjkUxJr6uihD\nMLRwLCtv/EtklU7NBfRhDS+0Yz5NdY9x5hwPBy+CQ4KbRcDQY4iL4hODLMhz3Mdf\njbnwF6gXF4JjndZuAGVvqtC6aQBRpMcc9KwqGrLVreQ+SIRUtK10M1Fne4ZrJD9s\n3NgsZ+mwpS3vZ6uo8fv4Ut7WokyViwnGxpnZT7rmfBRwI7CivvTUZX/HWxm1oVmm\nT8puGf3AF5ZskfYbaYVqYpqC3pox8kJrp8ILlUHem8aUGv0Ue9f5Ip6WMs/AYh80\nY4X3SlHd4vZfaKKrdPa5a7o2wxFF2yuZkY4dE3IfsQKBgQDuFp/FPXBvCp75eH1I\nNJZfAQsun7lku3xPTWF2SFZdqarGj8RgY8ujAEWlEHGYxx8gf15IqVr/VRGXC1Hg\nH8fNf8OkeTHwShNwyJEAvSITLWqiH0QcJgdu1TjssLcNgyEhn0SvtHhTv8Z+Ke9F\nTkAKquHSPUdNsX0KVa1fuJ3K0wKBgQDcD79+SpEMVzZbCdarP47AnOBkUEncDUx6\nWWqgKcu0ak3xTrIBpIMR/0o3XWZLUw/veDc8OyI6MAvtm+O3M5LT6O9p/lxjrbJK\nwpU+gxt1NfO4irD+MtP1Rwwq1WqygexnAX/HfF+X7E3Y27B9MPNrcygigm9gY/iI\nRPuviGVVkQKBgQCIyurlElXFFt8cCoRAtiYnU5wvH4oPPEFB9v2mTg2BJvh9uSBl\nGTFo58EcA4Sg+NcDfuqW6ObliOTgWZqjIN9VTLEFkLSGkKj2xeW5/PDU/+UiXMBv\nQ9JFdbCNHUMvOkYQ4Uc/hHsV8zuCRWm58imNd3zjpF2RYAatp2hDdPkEDQKBgQCd\n8fehb2eYEeiDgxY+p0mQWYh8t1urwyfHEPKErjr07O+waKk+oJMqka70+eZ33dAs\nMn6CjnbMiLum+SKB1VRnIGLmEpjBOmQjYHG6AmPsxqJ9K55JdLXI8At9mtwP70x7\nygmqZkw+QG7HXTbZRA8Saf6+dhv2dQpm1AxJOn5w4QKBgD3cm2wRWOLT3c1SOD6u\n3aFiulJte9AjvMDZuj1pQ/rqXwI/xmon0cppXF3fmV4FSfard6HyvyVREw2ILNnL\nq3M3VRDr+U4Qn2d1Yeh7bdIYB7edbQx7aKcEJ5Q5Bn6Gitzx3DAKdct18/q80kMm\nKOiZFBy6Q7YF+MhfTASSjFRv\n-----END PRIVATE KEY-----\n",
+  "client_email": "terrafom@projeto-estudos-356715.iam.gserviceaccount.com",
+  "client_id": "100402918099366703640",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terrafom%40projeto-estudos-356715.iam.gserviceaccount.com"
+}
