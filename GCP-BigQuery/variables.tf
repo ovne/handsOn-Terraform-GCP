@@ -7,7 +7,7 @@ Contudo, se a variavel for definida sem valor padrão o Terraform pedira o imput
 variable "credentials_file_path" {
   description = "Where the file with the auth keys can be found (locally)"
   type        = string
-  default     = "../.provider_keys/gcp-keys.json"
+  default     = "../temp_keys/key_adm.json"
   # isso pode ser melhorado depois com o uso de valores locais 'locals'
 }
 

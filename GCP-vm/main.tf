@@ -41,7 +41,7 @@ resource "google_compute_instance" "VMfromTF" {
       // Ephemeral public IP
     }
   }
-
+  
   # executa algum script no boot da VM, nesse exemplo, cria um arquivo com o texto 'Ola Mundo'
   metadata_startup_script = "echo Olá Mundo > /test-terraform.txt"
 }
